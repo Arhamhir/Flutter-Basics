@@ -1,16 +1,20 @@
 # test_proj
 
-A minimal Flutter basics project focused on layout, widgets, assets, and simple lists.
+A basic Flutter project built to practice core concepts such as layout structure, widgets, assets, and simple lists.
 
-## Getting Started
+Focus areas:
+- Widget tree structure
+- Layout using Row, Column, Container, and Padding
+- AppBar (leading, title, actions)
+- TextField customization
+- Asset management via pubspec.yaml
+- Simple model classes and list rendering
 
-This project is a starting point for a Flutter application.
+Designed as a beginner-level reference for understanding how Flutter UI is structured and organized.
 
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
